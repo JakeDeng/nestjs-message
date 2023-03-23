@@ -1,6 +1,4 @@
-entrypoint = "src/main.ts"
-
-hidden = [".config", "package-lock.json"]
+entrypoint = "entrypoint.js"
 
 [interpreter]
 command = [
